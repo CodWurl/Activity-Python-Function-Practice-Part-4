@@ -83,5 +83,7 @@ def pascal(depth):
     for row in triangle:
       print(row)
 
-pascal(2)
+
+
+
 pascal(5)
