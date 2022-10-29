@@ -28,8 +28,9 @@ def mult_list(lst):
   return prod
     
 print(mult_list([1,2,3]))
+print(mult_list([1,2,3,4]))
+print(mult_list([0,2,3,4]))
 print(mult_list([]))
-print(mult_list([15]))
 
 # Write a Python function called rev_string() to reverse a string.
 
