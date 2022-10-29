@@ -8,6 +8,8 @@ print(max_num(3, 5, 20))
 def max_num_arb(*args):
   return max(args)
 
+print(max_num_arb (3,5,20,22,5558,5634563564))
+
 
 # Write a Python function called mult_list()  to multiply all the numbers in a list.
 
